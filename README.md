@@ -1,10 +1,7 @@
 # Tilsyn.dk
 
+## Vision
 Single Page Application aiming to give an overview of daycare options, based on publicly available information, as well as letting people know what we know about them.
-
-
-##Vision
-
 
 
 ## Dependencies
